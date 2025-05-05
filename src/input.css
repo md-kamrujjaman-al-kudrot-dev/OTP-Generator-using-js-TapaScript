@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.otp-box{
+    width: 30px;
+    margin-right: 5px;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px teal;
+    border: none;
+
+}
