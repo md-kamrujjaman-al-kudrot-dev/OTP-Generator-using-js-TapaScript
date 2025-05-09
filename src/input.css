@@ -8,3 +8,12 @@
     border: none;
 
 }
+
+.otp-validate-message.success{
+    border: 1px solid greenyellow;
+    color: green;
+}
+.otp-validate-message.fail{
+    border: 1px solid #e00d0d;
+    color: red;
+}
